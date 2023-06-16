@@ -35,6 +35,6 @@ Here's a glimpse of my recent GitHub contributions:
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to say hello!
 
 - Email: tanishq.siva09@gmil.com
-- LinkedIn: [Tanishq Sivalingala]([https://www.linkedin.com/in/tanishq-sivalingala](https://www.linkedin.com/in/tanishq-sivalingala-587594269/))
+- Linkedin: <a href="https://www.linkedin.com/in/tanishq-sivalingala-587594269/">Tanishq Sivalingala</a>
 
 Let's connect and build something awesome together! 😄
