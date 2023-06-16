@@ -1,6 +1,5 @@
+![image](https://github.com/TanishqSiva/TanishqSiva/assets/127381848/f82f1dac-0dce-4ea2-a3e8-a1374b0f3f9c)
 
-
-![image](https://github.com/TanishqSiva/TanishqSiva/assets/127381848/9438f6fa-59a4-4ff0-8de5-58bdc521bc14)
 
 # Tanishq Sivalingala
 
