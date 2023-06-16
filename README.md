@@ -13,6 +13,8 @@ Welcome to my GitHub profile! I'm Tanishq Sivalingala, a passionate front-end de
 Here's a glimpse of my recent GitHub contributions:
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanishqSiva&show_icons=true&theme=radical)
+
 
 
 ### Programming Languages
